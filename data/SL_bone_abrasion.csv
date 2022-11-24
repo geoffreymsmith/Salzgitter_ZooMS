@@ -1,0 +1,11 @@
+Barcode ID,NSP,type,abras.mod,pc.abrasion
+Elephantidae,63,high.abrasion,8,12.698412698412698
+Elephantidae,63,low.abrasion,55,87.3015873015873
+Equidae,49,high.abrasion,6,12.244897959183673
+Equidae,49,low.abrasion,43,87.75510204081633
+Reindeer,429,high.abrasion,31,7.226107226107226
+Reindeer,429,low.abrasion,398,92.77389277389277
+Bos/Bison,15,high.abrasion,2,13.333333333333334
+Bos/Bison,15,low.abrasion,13,86.66666666666667
+unidentified,116,high.abrasion,21,18.103448275862068
+unidentified,116,low.abrasion,95,81.89655172413794

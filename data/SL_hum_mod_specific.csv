@@ -1,0 +1,21 @@
+Barcode ID,type,n
+Equidae,%cut,8.2
+Equidae,%chop,0
+Equidae,%scrape,0
+Equidae,%marrow,10.2
+Reindeer,%cut,14.9
+Reindeer,%chop,0.7
+Reindeer,%scrape,3.7
+Reindeer,%marrow,10.3
+Bos/Bison,%cut,6.7
+Bos/Bison,%chop,0
+Bos/Bison,%scrape,0
+Bos/Bison,%marrow,13.3
+Bovidae/Reindeer,%cut,20
+Bovidae/Reindeer,%chop,0
+Bovidae/Reindeer,%scrape,0
+Bovidae/Reindeer,%marrow,15
+unidentified,%cut,12.9
+unidentified,%chop,0
+unidentified,%scrape,4.3
+unidentified,%marrow,6

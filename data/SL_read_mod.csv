@@ -1,0 +1,11 @@
+Barcode ID,NSP,type,read.mod,pc.read
+Elephantidae,63,high readability,32,50.79365079365079
+Elephantidae,63,low readability,31,49.2063492063492
+Equidae,49,high readability,33,67.3469387755102
+Equidae,49,low readability,16,32.6530612244898
+Reindeer,429,high readability,346,80.65268065268066
+Reindeer,429,low readability,83,19.34731934731935
+Bos/Bison,15,high readability,12,80
+Bos/Bison,15,low readability,3,20
+unidentified,116,high readability,67,57.758620689655174
+unidentified,116,low readability,49,42.241379310344826

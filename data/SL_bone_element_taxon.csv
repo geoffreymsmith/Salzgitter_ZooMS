@@ -1,0 +1,26 @@
+Barcode ID,Bone element,nelement,total,%
+Elephantidae,Cranial,2,63,3.2
+Elephantidae,Long bone,24,63,38.1
+Elephantidae,Indeterminate,37,63,58.7
+Equidae,Cranial,2,49,4.1
+Equidae,Rib,1,49,2
+Equidae,Flat bone,1,49,2
+Equidae,Long bone,34,49,69.4
+Equidae,Indeterminate,11,49,22.4
+Reindeer,Cranial,4,429,0.9
+Reindeer,Rib,8,429,1.9
+Reindeer,Flat bone,11,429,2.6
+Reindeer,Long bone,379,429,88.3
+Reindeer,Indeterminate,27,429,6.3
+Bos/Bison,Rib,1,15,6.7
+Bos/Bison,Flat bone,1,15,6.7
+Bos/Bison,Long bone,11,15,73.3
+Bos/Bison,Indeterminate,2,15,13.3
+Bovidae/Reindeer,Rib,1,20,5
+Bovidae/Reindeer,Long bone,15,20,75
+Bovidae/Reindeer,Indeterminate,4,20,20
+unidentified,Cranial,5,116,4.3
+unidentified,Rib,8,116,6.9
+unidentified,Flat bone,4,116,3.4
+unidentified,Long bone,72,116,62.1
+unidentified,Indeterminate,27,116,23.3
