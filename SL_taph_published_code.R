@@ -104,6 +104,8 @@ SL_bone_readability_figure <-
   theme_default +
   theme(legend.title = element_blank())
 
+SL_bone_readability_figure
+
 #save and export
 ggsave(SL_bone_readability_figure, filename = "output/Figure_3.tiff",
        dpi = 300, width = 20, height = 15, units = "cm")
@@ -137,6 +139,8 @@ mutate(Weathering =
   scale_y_continuous(limits = c(0,60))+
   theme_default+
   theme(legend.position = "none")
+
+SL_weath_general_fig
 
 ## weathering major taxa
 #read in weathering by taxa data
@@ -185,10 +189,14 @@ SL_weath_taxa_fig <-
   theme_default+
   theme(legend.title = element_blank())
 
+SL_weath_taxa_fig
+
 ## 1e. Figure 4:  general weathering plus species specific
 SL_weath_combined <- 
   SL_weath_general_fig/SL_weath_taxa_fig+
   plot_annotation(tag_levels = 'a')
+
+SL_weath_combined
 
 ##save and export
 ggsave(plot = SL_weath_combined, filename = "output/Figure_4.tiff",
@@ -298,6 +306,8 @@ SL_bone_abrasion_fig <-
   theme_default +
   theme(legend.title = element_blank())
 
+SL_bone_abrasion_fig
+
 # 2. Biomolecular preservation----
 ## 2a. read in data----
 SL_ambic_acid_taxa_1105 <- read_csv("data/SL_ambic_acid_taxa_1105.csv")
@@ -348,6 +358,8 @@ SL_wilcox_deamid_acid_taxa <-
   SL_wilcox_deamid_acid_taxa %>% 
   wilcox_test(Acid_P1105~Barcode_ID) %>% 
   add_significance() 
+
+SL_wilcox_deamid_acid_taxa
 
 # 3. Salzgitter taxa and fragmentation----
 ## 3a. SL summary statistics for bone length----
@@ -413,6 +425,8 @@ SL_bone_element_taxon_figure <-
   theme(legend.position = "none")+
   theme_default
 
+SL_bone_element_taxon_figure
+
 ##save and export
 ggsave(plot = SL_bone_element_taxon_figure, filename = "output/Figure_7.tiff",
        dpi = 300, width = 29, height = 21, units = "cm")
@@ -452,6 +466,8 @@ SL_BSC_fig_facet <-
   theme_default
 
 #note that the labels were added afterwards
+
+SL_BSC_fig_facet
 
 ###save and export
 ggsave(plot = SL_BSC_fig_facet, filename = "output/Figure_10.tiff",
