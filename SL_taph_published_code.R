@@ -5,7 +5,7 @@
 # Ruebens et al., 2022:
 # Neanderthal subsistence, taphonomy and chronology 
 # at Salzgitter-Lebenstedt (Germany): 
-# a multifaceted analyses of morphologically unidentifiable bone. 
+# a multifaceted analysis of morphologically unidentifiable bone. 
 
 ##load libraries
 ##load libraries----
