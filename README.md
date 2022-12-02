@@ -4,7 +4,7 @@
 
 This repository contains data and code used for analyses in:
 
-> Ruebens et. al. (2021) Neanderthal subsistence, taphonomy and chronology at Salzgitter-Lebenstedt (Germany): a multifaceted analysis of morphologically unidentifiable bone. 
+> Ruebens et. al. (2022) Neanderthal subsistence, taphonomy and chronology at Salzgitter-Lebenstedt (Germany): a multifaceted analysis of morphologically unidentifiable bone. Journal of Quaternary Science.
 
 ### Requirements
 To run the code, you will need to have an up-to-date version of [R](https://www.r-project.org/) and [RStudio](https://rstudio.com/) installed on your computer and a few CRAN packages (see below). 
